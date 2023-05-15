@@ -1,4 +1,4 @@
-module github.com/nathanfabio/goOpportunities.git
+module github.com/nathanfabio/goOpportunities
 
 go 1.20
 
