@@ -1,0 +1,18 @@
+# Binaries
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+#Test Binary
+
+*.test
+
+#Coverge
+
+*.out
+
+Db folder
+
+db/
